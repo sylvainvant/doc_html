@@ -1,12 +1,12 @@
 # Créer des pages WEB HTML
 
-### color:green A quoi sert le HTML5 ? 
+## A quoi sert le HTML5? 
 
 
 ![HTML 5](images/html.png)
 
 
-Le HTML5 est le **langage de base**  pour créer un site internet. Le HTML5 sert a **structurer votre contenu**. Même s’il est relativement simple, vous en aurez toujours _besoin_. 
+color:green Le HTML5 est le **langage de base**  pour créer un site internet. Le HTML5 sert a **structurer votre contenu**. Même s’il est relativement simple, vous en aurez toujours _besoin_. 
 
 
 HTML est un **langage** de balises destiné essentiellement à la présentation des données.  
