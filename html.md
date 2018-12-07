@@ -25,9 +25,16 @@ Apprendre le HTML5 est une **chose**, bien le **maîtriser** en est une autre.
 Le HTML5 est un langage inspiré du _XML_ et qui repose sur le principe de **balises imbriquées**. En résumé, il sert à indiquer au navigateur (internet explorer, firefox, safari …) comment **afficher la page web**. Imaginez que vous vouliez créer un site avec une seule page ou il serait juste écrit : « Bonjour ». Vous allez devoir écrire des lignes de codes _HTML5_ pour indiquer au navigateur d’afficher votre texte.
 Comme le HTML5 fonctionne sur le principe de **balises imbriquées**, nous allons encadré notre texte par deux balises : La première pour indiquer le _début_ et la deuxième pour indiquer la _fin_. Pour afficher du texte en HTML5, bien souvent nous utilisons la balise servant à indiquer qu’il s’agit d’un paragraphe. Même pour n’écrire qu’une seule phrase, on utilise cette balise.
 
+
+
 Ce qui nous donnera la ligne de code suivant :
 
-```<p>bonjour</p>```
+
+  <p>bonjour</p>
+
+
 
 On ouvre une première balise <p> pour indiquer au navigateur qu’il doit afficher le texte qui suit puis on la referme cette balise en ajoutant le symbole / (slash). La balise <p> indique un paragraphe. P signifiant Paragraph en anglais. Tout le texte qui se trouve entre ces deux balises s’affichera à l’écran.
 
+
+![HTML 5](images/brique.jpg)
