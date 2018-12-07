@@ -6,8 +6,7 @@
 ![HTML 5](images/html.png)
 
 
-Le HTML5 est le **langage de base**  pour créer un site internet. Le HTML5 sert a **structurer votre contenu**. Même s’il est relativement simple, vous en aurez toujours _besoin_. Donc, que vous vous lanciez dans un petit _site personnel_ ou dans un très gros projet (un peu risqué sans trop de connaissance …), vous devrez utilisez du HTML5.
-
+Le HTML5 est le **langage de base**  pour créer un site internet. Le HTML5 sert a **structurer votre contenu**. Même s’il est relativement simple, vous en aurez toujours _besoin_. 
 
 
 HTML est un **langage** de balises destiné essentiellement à la présentation des données.  
@@ -22,7 +21,9 @@ HTML possède un **ensemble de balises** destinées à :
 
 
 Apprendre le HTML5 est une **chose**, bien le **maîtriser** en est une autre.  
-Le HTML5 est un langage inspiré du _XML_ et qui repose sur le principe de **balises imbriquées**. En résumé, il sert à indiquer au navigateur (internet explorer, firefox, safari …) comment **afficher la page web**. Imaginez que vous vouliez créer un site avec une seule page ou il serait juste écrit : « Bonjour ». Vous allez devoir écrire des lignes de codes _HTML5_ pour indiquer au navigateur d’afficher votre texte.
+Le HTML5 est un langage de **balises imbriquées**. Il sert à indiquer au navigateur comment **afficher la page web**.   
+Imaginez que vous vouliez créer un site avec une seule page ou il serait juste écrit : « Bonjour ».  
+Vous allez devoir écrire des lignes de codes _HTML5_ pour indiquer au navigateur d’afficher votre texte.  
 Comme le HTML5 fonctionne sur le principe de **balises imbriquées**, nous allons encadré notre texte par deux balises : La première pour indiquer le _début_ et la deuxième pour indiquer la _fin_. Pour afficher du texte en HTML5, bien souvent nous utilisons la balise servant à indiquer qu’il s’agit d’un paragraphe. Même pour n’écrire qu’une seule phrase, on utilise cette balise.
 
 
