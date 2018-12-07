@@ -16,15 +16,6 @@ HTML possède un ** ensemble de balises ** destinées à :
 
 ![HTML 5](images/pack.png)
 
-Le HTML5 est le **langage de base**  pour créer un site internet. Le HTML5 sert a **structurer votre contenu**. Même s’il est relativement simple, vous en aurez toujours _besoin_. Donc, que vous vous lanciez dans un petit _site personnel_ ou dans un très gros projet (un peu risqué sans trop de connaissance …), vous devrez utilisez du HTML5.
-
-HTML est un ** langage ** de balises destiné essentiellement à la présentation des données.
-HTML possède un ** ensemble de balises ** destinées à :
--> structurer le document sous forme de titres, de paragraphes, de listes, de tableaux, etc.
--> formater des données textuelles : emphase, citation, code, ...
--> définir des aspects visuel : police, taille et couleur des caractères, espacement et placement.
-
-
 
 
 Apprendre le HTML5 est une **chose**, bien le **maîtriser** en est une autre.
