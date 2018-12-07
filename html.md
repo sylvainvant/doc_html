@@ -1,6 +1,6 @@
 # Créer des pages WEB HTML
 
-## A quoi sert le HTML5 ? 
+### color:green A quoi sert le HTML5 ? 
 
 
 ![HTML 5](images/html.png)
