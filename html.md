@@ -39,7 +39,14 @@ On ouvre une première balise `<p>` pour indiquer au navigateur qu’il doit a
 ![HTML 5](images/brique.jpg)
 
 
-Le HTML5 sert principalement à afficher un contenu (texte, image, vidéo, animation …). Ce contenu est hiérarchisé par des balises.   
-Par exemple pour un titre on utilise des balises relatives `(<h1>,<h2>,<h3> …)`, idem pour le texte `(<p>,<a>` pour faire un lien ….), le multimédia (`<img>` pour les images …).
+Le HTML5 sert principalement à afficher un contenu (texte, image, vidéo, animation …).   
+Ce contenu est hiérarchisé par des balises.   
+Par exemple pour un titre on utilise des balises relatives `(<h1>,<h2>,<h3> …)`,   
+idem pour le texte `(<p>,<a>` pour faire un lien ….), le multimédia (`<img>` pour les images …).
 
-Chaque balise à une utilisation logique dans la structuration du document. Le choix des balises est primordiale et les moteurs de recherches s’en servent pour classer et positionner vos page web lors de requête. Il est donc très important d’apporter un soin particulier à leur choix. Par exemple, pour une citation, on n’utilise pas une balise <p> (paragraphe) mais une balise <blockquote> (citation). Si le rendu à l’affichage est le même, pour l’interprétation du navigateur mais surtout des moteurs de recherche ce n’est pas du tout pareil.
+Chaque balise à une utilisation logique dans la structuration du document.    
+Le choix des balises est primordiale et les moteurs de recherches s’en servent pour classer   
+et positionner vos page web lors de requête. Il est donc très important d’apporter un soin particulier   
+à leur choix. Par exemple, pour une citation, on n’utilise pas une balise `<p>` (paragraphe)   
+mais une balise `<blockquote>` (citation). Si le rendu à l’affichage est le même, pour   
+l’interprétation du navigateur mais surtout des moteurs de recherche ce n’est pas du tout pareil.
