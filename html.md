@@ -29,9 +29,7 @@ Comme le HTML5 fonctionne sur le principe de **balises imbriquées**, nous allo
 
 Ce qui nous donnera la ligne de code suivant :
 
-
-  <p>bonjour</p>
-
+    <p>bonjour</p>
 
 
 On ouvre une première balise <p> pour indiquer au navigateur qu’il doit afficher le texte qui suit puis on la referme cette balise en ajoutant le symbole / (slash). La balise <p> indique un paragraphe. P signifiant Paragraph en anglais. Tout le texte qui se trouve entre ces deux balises s’affichera à l’écran.
