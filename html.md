@@ -1,6 +1,6 @@
 # Créer des pages WEB HTML
 
-## [color=#26B260]A quoi sert le HTML5 ?[/color]
+## [color=#26B260] A quoi sert le HTML5 ? [/color]
 
 
 ![HTML 5](images/html.png)
@@ -37,3 +37,7 @@ On ouvre une première balise `<p>` pour indiquer au navigateur qu’il doit a
 
 
 ![HTML 5](images/brique.jpg)
+
+
+
+
